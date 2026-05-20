@@ -126,6 +126,54 @@
   border: 1px solid rgba(255, 255, 255, 0.05);
 }
 
+/* ── Custom Markdown Renderer Styles ── */
+.markdown-body {
+  font-size: 1rem;
+  line-height: 1.65;
+  color: inherit;
+}
+
+/* Paragraphs */
+.markdown-body .md-paragraph {
+  margin: 0 0 0.55em 0;
+}
+.markdown-body .md-paragraph:last-child {
+  margin-bottom: 0;
+}
+
+/* Lists (bullet and numbered) */
+.markdown-body .md-list {
+  margin: 0.3em 0 0.55em 0;
+  padding-left: 1.4em;
+}
+.markdown-body .md-list:last-child {
+  margin-bottom: 0;
+}
+.markdown-body .md-list li {
+  margin-bottom: 0.3em;
+  line-height: 1.5;
+}
+.markdown-body .md-list li::marker {
+  color: #32CD32;
+}
+.markdown-body .md-list-ordered {
+  list-style-type: decimal;
+}
+.markdown-body .md-list-ordered li::marker {
+  color: #32CD32;
+  font-weight: 600;
+}
+
+/* Bold and italic */
+.markdown-body strong {
+  color: #32CD32;
+  font-weight: 700;
+}
+.markdown-body em {
+  font-style: italic;
+  color: #b0e0b0;
+}
+
 .typing-indicator {
   padding: 14px 18px;
   background-color: #1a1a1a;
