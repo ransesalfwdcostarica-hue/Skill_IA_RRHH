@@ -1,0 +1,1141 @@
+POLITICA Y
+PROCEDIMIENTO
+N°:
+RH-12
+Página
+1 de 26
+TÍTULO
+Política contra la violencia a las mujeres
+FECHAS
+EMISION
+Noviembre 2019
+FECHA MÁXIMA DE
+PROXIMA REVISION
+Diciembre 2025
+Contenido
+1. ANTECEDENTES.......................................................................................................................................... 2
+2. PROPÓSITO ................................................................................................................................................ 3
+3. ALCANCE .................................................................................................................................................... 4
+4. RESPONSABLES .......................................................................................................................................... 4
+5. CONCEPTOS Y NOMENCLATURA ................................................................................................................ 5
+6. DESCRIPCIÓN DE LA POLITICA .................................................................................................................. 10
+6.1. ENFOQUES ............................................................................................................................................... 10
+6.2. PRINCIPIOS .............................................................................................................................................. 11
+6.3. COMPROMISO POLÍTICO DE LOS NIVELES GERENCIALES .......................................................................... 11
+6.4. COMUNICACIÓN INTERNA Y EXTERNA ..................................................................................................... 12
+6.5. ASIGNACIÓN DE RECURSOS PARA LA EJECUCIÓN PROGRESIVA DE LA POLÍTICA ...................................... 13
+6.6. PROMOCIÓN DE UNA VIDA LIBRE DE VIOLENCIA Y PREVENCIÓN DE LA VCM .......................................... 13
+6.7. PROCEDIMIENTO PARA DAR RESPUESTA A SITUACIONES DE VIOLENCIA CONTRA LAS MUJERES ............ 14
+6.7.1. SITUACIONES DE HOSTIGAMIENTO SEXUAL EN EL EMPLEO ............................................................. 14
+6.7.2. SITUACIONES DE VIOLENCIA ÍNTIMA O DE PAREJA DETECTADAS EN LA ORGANIZACIÓN ................ 15
+6.7.3. ACOSO CALLEJERO ........................................................................................................................... 16
+6.7.3.1. ALCANCE ......................................................................................................................................... 17
+6.7.3.2. COMUNICACIÓN .............................................................................................................................. 17
+6.7.3.3. ACCIONES ........................................................................................................................................ 17
+6.7.3.4. SANCIONES...................................................................................................................................... 18
+7. CONSULTAS Y/O DENUNCIAS POR INCUMPLIMIENTO ............................................................................. 18
+8. DESVIACIONES Y/O SANCIONES POR INCUMPLIMIENTO ......................................................................... 18
+9. MECANISMOS DE VERIFICACION ............................................................................................................. 19
+10. CONTROL DE CAMBIOS ............................................................................................................................ 20
+11. ANEXO 1: MARCO JURÍDICO .................................................................................................................... 21
+
+-- 1 of 26 --
+
+POLITICA Y
+PROCEDIMIENTO
+N°:
+RH-12
+Página
+2 de 26
+TÍTULO
+Política contra la violencia a las mujeres
+FECHAS
+EMISION
+Noviembre 2019
+FECHA MÁXIMA DE
+PROXIMA REVISION
+Diciembre 2025
+12. ANEXO 2: ESCALA DE VALORACIÓN DE RIESGO DE FEMICIDIO ................................................................. 24
+13. ANEXO 3: GUÍA DE RECURSOS PARA DERIVACIÓN DE CASOS DE VIOLENCIA CONTRA LAS MUJERES ....... 26
+14. ANEXO 4: GUÍA ORIENTACIONES A LAS EMPRESAS PRIVADAS PARA LA PLANIFICACIÓN, DETECCIÓN Y
+REFERENCIA DE CASOS DE SITUACIONES DE VIOLENCIA EN EL CONTEXTO DE LA RELACIÓN DE PAREJA
+(INAMU/PNUD, 2018) ...................................................................................................................................... 26
+1. ANTECEDENTES
+La violencia contra las mujeres constituye una violación al derecho humano a una vida libre de
+violencia, en particular, y a los derechos humanos, en general.
+La violencia contra las mujeres genera serios problemas en todos los ámbitos de la sociedad;
+el laboral, no es la excepción.
+En la lucha por erradicar la violencia contra las mujeres, todas las personas y empresas poseen
+una responsabilidad compartida para detener y erradicar cualquier forma de violencia contra
+las mujeres.
+Las estadísticas de casos de violencia contra las mujeres han tenido un incremento en los
+últimos años, incluyendo la cantidad de femicidios.
+La Organización Panamericana de la Salud (OPS) ha estimado a través de un estudio sobre
+prevalencia de la violencia íntima – violencia cometida por la pareja o ex pareja - que alrededor
+de 30% de las mujeres de todo el mundo ha sufrido alguna vez en su vida episodios de violencia
+física o sexual por parte de sus parejas, y al menos un 11 % de las mujeres había sufrido
+violencia sexual por personas ajenas a ellas.1
+En Costa Rica el Observatorio de Violencia de Género del Poder Judicial ha reportado que
+entre el 1° de enero de 2018 y el 31 de diciembre de 2023, fueron solicitadas un total de 259.
+002 medidas de protección, para un promedio de 142 medidas de protección por día por medio
+de la Ley contra la Violencia Doméstica. Así mismo reporta que el país ha sido testigo de la
+muerte por femicidio de 498 mujeres en el período del 2007 al 2024. Por otra parte, la
+Defensoría de los Habitantes ha reportado la prevalencia del hostigamiento sexual en el empleo
+1 Bott S, Guedes A, Ruiz-Celis AP, Mendoza JA. Intimate partner violence in the Americas: a systematic review and reanalysis of national
+prevalence estimates. Rev Panam Salud Publica. 2019; 43: e26. https://doi.org/10.26633/RPSP.2019.26
+
+-- 2 of 26 --
+
+POLITICA Y
+PROCEDIMIENTO
+N°:
+RH-12
+Página
+3 de 26
+TÍTULO
+Política contra la violencia a las mujeres
+FECHAS
+EMISION
+Noviembre 2019
+FECHA MÁXIMA DE
+PROXIMA REVISION
+Diciembre 2025
+y la docencia en los años 2021-2022 en 452 casos reportados solamente en la institucionalidad
+pública, siendo que se reconoce el grave subregistro existente en el sector privado del país.2
+En condiciones de cuarentena y/o aislamiento domiciliar por condiciones sanitarias, las
+manifestaciones de violencia pueden agravarse, además la ayuda a las mujeres podría verse
+limitada. La violencia contra las mujeres es susceptible de aumentar ante experiencias de
+emergencia como la pandemia, situaciones en que las mujeres mayores y las mujeres con
+discapacidad son las más expuestas. 3
+El maltratador puede valerse de las restricciones sanitarias para ejercer control y poder
+restringir el acceso a los servicios de apoyo tanto formales como informales, de forma
+alarmante también mencionan que, el maltratador puede negarles el acceso a utensilios de
+higiene y además de tomar control de la información sobre la enfermedad que manejan las
+mujeres para controlarlas.
+2. PROPÓSITO
+Con la adopción de esta política, las empresas de Garnier & Garnier se comprometen a
+respaldar y trabajar de manera paulatina pero progresiva, en la incorporación a todos los
+niveles de nuestra organización de una gestión transversal de cero tolerancia y erradicación de
+la violencia contra las mujeres.
+Para el logro y seguimiento de esta política se ha creado un grupo permanente de personas
+colaboradoras a lo interno de nuestra empresa direccionadas por Recursos Humanos,
+denominado Comité de Género y VcM, quienes serán las personas responsables de llevar a
+cabo la incorporación paulatina de la política en los ejes de prevención de la violencia,
+promoción de cambio cultural, así como detección y atención de situaciones de violencia que
+se presenten en la organización.
+También se plantean los siguientes objetivos:
+1. Incluir en los planes operativos anuales de la empresa, de manera progresiva pero
+permanente, actividades asociadas a la prevención de la VcM y promoción del cambio
+2 Subproceso de Estadísticas del Departamento de Planificación correspondientes al año 2018, Observatorio de Violencia de Género del
+Poder Judicial/ Estadísticas Defensoría de los Habitantes
+3 Organización Mundial de la Salud (7 de abril de 2020) COVID-19 y violencia contra la mujer, lo que el sector y el sistema de salud pueden
+hacer. Recuperado de:
+https://iris.paho.org/bitstream/handle/10665.2/52034/OPSNMHMHCovid19200008_spa.pdf?sequence=1&isAllowed=y
+
+-- 3 of 26 --
+
+POLITICA Y
+PROCEDIMIENTO
+N°:
+RH-12
+Página
+4 de 26
+TÍTULO
+Política contra la violencia a las mujeres
+FECHAS
+EMISION
+Noviembre 2019
+FECHA MÁXIMA DE
+PROXIMA REVISION
+Diciembre 2025
+cultural de la organización dirigidos a la creación de una organización cero tolerante
+con la VcM, así como los mecanismos de medición de la incidencia de la VcM dentro
+de la organización.
+2. Crear alianzas empresariales dirigidas a la formación permanente del personal, tanto
+del Comité de Género y VcM como de todo el personal en materia de violencia contra
+las mujeres, promoción de masculinidades positivas y alianzas estratégicas para la
+derivación de colaboradoras en situaciones de VcM
+3. ALCANCE
+Esta política aplica para la totalidad de personas colaboradoras de las empresas de Garnier &
+Garnier.
+Las empresas de Garnier & Garnier implementaran las acciones necesarias para el desarrollo
+de esta política tanto a nivel interno como en su trabajo de proyección comunitaria.
+4. RESPONSABLES
+• Es responsabilidad de la Presidencia Ejecutiva aprobar cualquier modificación de la política.
+• Es responsabilidad de las personas en roles de Dirección, Gerencia, Jefatura, Supervisión
+y Coordinación la colaboración en los aspectos que sean requeridos para la implementación
+de la política.
+• Es responsabilidad de Recursos Humanos liderar el proceso que permita una cultura libre
+de violencia contra las mujeres en las empresas de Garnier & Garnier.
+• Es responsabilidad del Comité Ejecutivo y de todas las personas en posiciones de liderazgo
+de Garnier & Garnier fomentar una cultura libre de cualquier tipo de violencia contras las
+mujeres.
+• Es responsabilidad del Comité de Género y VcM, la ejecución de lo dispuesto en la presente
+política. También es responsabilidad del Comité de Género y VcM la atención en primeros
+auxilios psicológicos a colaboradoras de la empresa a fin de identificar situaciones de
+
+-- 4 of 26 --
+
+POLITICA Y
+PROCEDIMIENTO
+N°:
+RH-12
+Página
+5 de 26
+TÍTULO
+Política contra la violencia a las mujeres
+FECHAS
+EMISION
+Noviembre 2019
+FECHA MÁXIMA DE
+PROXIMA REVISION
+Diciembre 2025
+riesgos y hacer las respectivas derivaciones de acuerdo con los procedimientos definidos
+y con los principios de riesgo y no revictimización.
+• Es responsabilidad de todas las personas de la organización promover un ambiente de
+trabajo libre de cualquier tipo de violencia contra las mujeres, y respetar lo dispuesto en la
+presente política.
+5. CONCEPTOS Y NOMENCLATURA
+• Acoso callejero
+Toda práctica con connotación sexual, implícita o explícita, que proviene de una persona
+desconocida, que ocurre en espacios públicos: calle, transporte público, mercados, parques,
+bares, discotecas, espacios deportivos, centros comerciales y que es no es deseada ni
+correspondida por la persona afectada.
+• Equidad de género
+Principio ético que consiste en eliminar las desigualdades existentes en el acceso y control de
+los recursos y beneficios entre mujeres y hombres, derivadas de las diferencias y preferencias
+sexuales. La equidad de género es un mecanismo para lograr la igualdad entre hombres,
+mujeres y personas de la comunidad LGBTIQ.
+• Género
+Conjunto de rasgos asignados por la sociedad a las personas según el sexo con el que se
+nace. Estos rasgos son adquiridos en el proceso de socialización y se manifiestan en pautas
+de comportamiento, valores, gustos, temores, actividades y expectativas hacia la persona. Se
+trata de una construcción social y no una separación inherente a la condición biológica con la
+que se nace.
+
+-- 5 of 26 --
+
+POLITICA Y
+PROCEDIMIENTO
+N°:
+RH-12
+Página
+6 de 26
+TÍTULO
+Política contra la violencia a las mujeres
+FECHAS
+EMISION
+Noviembre 2019
+FECHA MÁXIMA DE
+PROXIMA REVISION
+Diciembre 2025
+• Hostigamiento sexual:
+Es toda aquella situación en la que una persona o varias ejercen una violencia psicológica, de
+forma sistemática y recurrente, durante un tiempo prolongado, sobre otra u otras personas en
+el lugar de trabajo, sea mediante comportamientos, palabras o actitudes, con el fin de degradar
+sus condiciones de trabajo, destruir sus redes de comunicación, destruir su reputación,
+perturbar el ejercicio de sus labores y conseguir su desmotivación laboral.
+Principio que reconoce que las necesidades y características de mujeres y hombres son
+valoradas y tomadas en cuenta de la misma manera, de modo que sus derechos,
+responsabilidades y oportunidades no dependen de su sexo, eliminando así toda forma de
+discriminación por dicho motivo.
+• Igualdad de género:
+Principio que reconoce que las necesidades y características de mujeres y hombres son
+valoradas y tomadas en cuenta de la misma manera, de modo que sus derechos,
+responsabilidades y oportunidades no dependen de su sexo, eliminando así toda forma de
+discriminación por dicho motivo.
+Nota: No se trata de igualar a las mujeres con los hombres sino de establecer una igualdad en
+el reconocimiento, goce y ejercicio de los derechos humanos de ambos.
+• Igualdad de oportunidades
+Se entiende como un principio de justicia social, cuya finalidad es conseguir que las personas
+que compiten por recursos o bienes escasos se encuentren en el mismo punto de salida para
+acceder a ellos. La igualdad de condiciones exige, en consecuencia, crear las condiciones
+necesarias para que los individuos puedan ser ubicados en ese mismo punto de partida
+• Machismo
+Conjunto de creencias, costumbres y actitudes que sostienen que el hombre es superior, que
+es la figura más importante, dueño del poder y representante del ser humano. Y por el otro lado
+la mujer es la que se encarga de la crianza de los hijos, de las labores domésticas y no tiene
+relación con temas políticos ni financieros. El machismo se expresa por los estereotipos de
+
+-- 6 of 26 --
+
+POLITICA Y
+PROCEDIMIENTO
+N°:
+RH-12
+Página
+7 de 26
+TÍTULO
+Política contra la violencia a las mujeres
+FECHAS
+EMISION
+Noviembre 2019
+FECHA MÁXIMA DE
+PROXIMA REVISION
+Diciembre 2025
+género son ideas distorsionadas sobre las características que debe cumplir una mujer y un
+hombre, los más comunes y visibles son: los hombres son más fuertes, son los dominantes,
+más importante lo masculino, las mujeres son protegidas por los hombres, los hombres por
+naturaleza están más interesados en el sexo y deben tener a más de una mujer, el hombre no
+debe tolerar la infidelidad de la mujer, la mujer es más afectiva, los trabajos de los hombres
+son más valorados que los de las mujeres.
+También hay machismos menos visibles: chistes o comentarios cuyo contenido considera a la
+mujer como inferior al hombre, ignorarla o no tomarla en cuenta por el solo hecho de ser mujer,
+desconfiar de su capacidad a la hora de hacer ciertos trabajos, pensar que sabe lo que le
+conviene, culpabilizarla por todo independientemente de sus acciones.
+• Masculinidad
+La masculinidad se entiende como una construcción social arbitraria que define cómo debe
+comportarse un hombre, es transmitido y reforzado por la socialización
+• Misoginia
+Se entiende por misoginia a la consideración de que las mujeres son inferiores, con menos
+capacidades, que merecen menos derechos que los hombres.
+• Patriarcado:
+El patriarcado es un orden social genérico de poder, basado en un modo de dominación donde
+el paradigma es el hombre. Este orden asegura la supremacía de los hombres y de lo masculino
+sobre la inferiorización previa de las mujeres y lo femenino. Es asimismo un orden de dominio
+de unos hombres sobre otros y de enajenación de las mujeres.4
+Es un sistema sociocultural que considera al hombre el dueño de los bienes, el del poder en la
+familia. Es una forma de organización social caracterizada por relaciones de poder, constituye
+4 Lagarde, M., 1996.;52 c.p. Bosch, E. V. Ferrer y A. Alzamora. 2006:27
+
+-- 7 of 26 --
+
+POLITICA Y
+PROCEDIMIENTO
+N°:
+RH-12
+Página
+8 de 26
+TÍTULO
+Política contra la violencia a las mujeres
+FECHAS
+EMISION
+Noviembre 2019
+FECHA MÁXIMA DE
+PROXIMA REVISION
+Diciembre 2025
+además una manera de pensar y de actuar, que hace daño tanto a los hombres como a las
+mujeres, se reproducción va de la mano con las instituciones sociales, este proceso se llama
+socialización de género patriarcal.
+• Perspectiva de género:
+Visión científica, analítica y política a partir de la cual se puede comprender, explicar y cambiar
+las relaciones entre las mujeres y los hombres que han provocado desigualdad, injusticia y
+jerarquización de las personas basadas en su sexo. Esta visión brinda la oportunidad de
+construir una sociedad donde las mujeres y los hombres tengan el mismo valor, reconociendo
+sus necesidades, intereses y capacidades diferentes. Con esta perspectiva se pueden construir
+políticas que permitan superar las brechas de género.
+• Prevención de la violencia contra las mujeres:
+Son aquellas acciones que permitan anticiparse a la ocurrencia de la violencia, identificando
+los procesos que contribuyen a desencadenarla con el fin de reducir el impacto que esta
+produce en la vida de las mujeres. A través de un conjunto de procesos orientados a fortalecer
+las potencialidades individuales, colectivas e institucionales, identificando y reduciendo
+oportunamente el impacto de la violencia contra las mujeres en las relaciones familiares y de
+pareja, el hostigamiento sexual y la violación.5
+• Primeros auxilios psicológicos
+Es la intervención psicológica en el momento de crisis. El objetivo es auxiliar a la persona a dar
+pasos concretos hacia el afrontamiento de la crisis y restablecer el equilibrio emocional, lo cual
+incluye el manejo adecuado de los sentimientos, el control de los componentes subjetivos de
+la situación y comenzar el proceso de solución del problema.
+• Riesgo
+Cualquier condición que pueda afectar a la mujer y a sus dependientes.
+• Valoración de riesgo
+5 INAMU
+
+-- 8 of 26 --
+
+POLITICA Y
+PROCEDIMIENTO
+N°:
+RH-12
+Página
+9 de 26
+TÍTULO
+Política contra la violencia a las mujeres
+FECHAS
+EMISION
+Noviembre 2019
+FECHA MÁXIMA DE
+PROXIMA REVISION
+Diciembre 2025
+Entrevista estructurada a la mujer agredida para determinar el nivel de riesgo que enfrenta y
+para definir las acciones necesarias para aumentar sus niveles de seguridad y proteger su vida.
+• Violencia contra las Mujeres (VcM)
+Cualquier acción o conducta, basada en su género, que cause muerte, daño o sufrimiento,
+físico, sexual o psicológico a las mujeres, tanto en el ámbito público como en el privado.
+• Violencia de género:
+Cualquier comportamiento, palabra, gesto o escrito que pueda atentar contra la dignidad o
+integridad física o emocional de la persona debido a su género.
+• Violencia física
+Acción u omisión que arriesga o daña la integridad corporal de una persona
+• Violencia patrimonial
+Acción u omisión que implica daño, pérdida, transformación, sustracción, destrucción, retención
+o distracción de objetos, instrumentos de trabajo, documentos personales, bienes, valores,
+derechos o recursos económicos destinados a satisfacer las necesidades de algún pariente
+por consanguinidad, afinidad o adopción hasta el tercer grado inclusive.
+• Violencia psicológica
+Acción u omisión destinada a degradar o controlar las acciones, comportamientos, creencias y
+decisiones de otras personas, por medio de intimidación, manipulación, amenaza, directa o
+indirecta, humillación, aislamiento o cualquier otra conducta que implique un perjuicio en la
+salud psicológica, la autodeterminación o el desarrollo personal.
+• Violencia simbólica
+Normalización en medios de comunicación, redes, etc., de cualquier tipo de violencia contra
+las mujeres.
+
+-- 9 of 26 --
+
+POLITICA Y
+PROCEDIMIENTO
+N°:
+RH-12
+Página
+10 de 26
+TÍTULO
+Política contra la violencia a las mujeres
+FECHAS
+EMISION
+Noviembre 2019
+FECHA MÁXIMA DE
+PROXIMA REVISION
+Diciembre 2025
+6. DESCRIPCIÓN DE LA POLITICA
+6.1. Enfoques
+• Enfoque de Derechos Humanos y Derechos Humanos de las Mujeres: El enfoque de
+Derechos Humanos reconoce el derecho inherente de toda persona a vivir en
+condiciones de dignidad, disfrute y desarrollo pleno de todas sus potencialidades. La
+doctrina de los derechos humanos ha reconocido la violencia contra las mujeres como
+una violación grave de los derechos fundamentales, producida por un contexto
+sociocultural e histórico de desigualdad entre los sexos-géneros, en detrimento de las
+mujeres quienes han estado estructuralmente subordinadas en todos los campos de la
+convivencia humana.
+• Enfoque de poder y discriminación de género: Este enfoque permite el reconocimiento
+de la existencia de una organización social basada en la jerarquización de las
+poblaciones humanas, de acuerdo con diversas características como lo son la raza, la
+etnia, el género, la orientación sexual u otra, sometiendo a diversas comunidades a una
+condición de subordinación e insatisfacción estructural de sus necesidades en relación
+con otros grupos. Reconoce las relaciones de poder entre hombres y mujeres, reconoce
+la discriminación histórica de las mujeres como estructural, profundizada en las
+sociedades industriales con la división sexual del trabajo, que ha excluido a las mujeres
+de la plena participación social, toma de decisiones y su emancipación. Reconoce la
+violencia contra las mujeres como un flagelo presente en todas las sociedades del
+mundo, que se enseña y perpetúa de generación en generación en el marco de una
+cultura patriarcal.
+• Enfoque de la violencia contra las mujeres como continuum: El continuo de la violencia
+permite visibilizar la sistematicidad y naturalización de la violencia contra las mujeres.
+El enfoque del continuo de la violencia reconoce que la Violencia contra las Mujeres se
+manifiesta de distintas formas, en distintos escenarios – sean estos públicos o privados
+- y por diferentes agentes sociales en el transcurso de la vida de todas las mujeres.
+• Enfoque de riesgo: Refiere al reconocimiento de la violencia como una acción in-
+continum, cuya letalidad puede variar de acuerdo con la dinámica propia de la relación
+de poder de donde emana. Reconoce la necesidad de tratar la violencia contra las
+mujeres de manera prioritaria, independientemente de donde esta sea detectada y de
+una manera responsable, informada y comprometida con la vida de todas las mujeres
+y de acuerdo con los lineamientos existentes en el país.
+• Enfoque de gobernanza: Refiere a la importancia de generar alianzas comunitarias,
+empresariales, sectoriales a todo nivel para combatir algunos asuntos de realidad
+
+-- 10 of 26 --
+
+POLITICA Y
+PROCEDIMIENTO
+N°:
+RH-12
+Página
+11 de 26
+TÍTULO
+Política contra la violencia a las mujeres
+FECHAS
+EMISION
+Noviembre 2019
+FECHA MÁXIMA DE
+PROXIMA REVISION
+Diciembre 2025
+nacional de manera integral, tal es el caso de la disminución de las brechas de género
+y erradicar la violencia contra las mujeres.
+6.2. Principios
+• Principio de no revictimización: “Se asegurará que las mujeres víctimas de violencia no
+vuelvan a ser víctimas una y otra vez, por lo que se evitará que sea sometida a múltiples
+interrogatorios o declaraciones, malos tratos o exámenes que puedan afectar su
+integridad, autoestima y la salud mental” (PLANOVI 2017-2032) En el caso de la labor
+empresarial refiere a la posibilidad de brindar una atención de primeros auxilios
+psicológicos, obteniendo la mínima información necesaria para establecer la magnitud
+del problema, sin entrar en mayores detalles para referir al centro especializado.
+Igualmente refiere a la confidencialidad a fin de evitar nuevas victimizaciones.
+• Principio de corresponsabilidad: refiere al tratamiento de las situaciones de violencia
+contra las mujeres desde el reconocimiento que se ejerce una labor que es de todas y
+todos como sociedad.
+• Principio de No neutralidad: significa que se conoce que las mujeres sufren la violencia
+en proporciones epidémicas, no así los varones, y que no es posible silenciar ante una
+situación que se conoce y no buscar alternativas de solución
+• Principio de no discriminación: se refiere a la garantía de igualdad de derechos, trato y
+dignidad entre todas las personas y sus diferentes condiciones. Atiende al artículo 1 de
+la Declaración Universal de Derechos Humanos.
+• Principio de protección: significa que se promoverán las condiciones para que las mujeres
+puedan disfrutar de una vida libre de cualquier tipo de violencia.
+6.3. Compromiso Político de los niveles gerenciales
+La Presidencia Ejecutiva de Garnier & Garnier proveerá los recursos necesarios para la
+sensibilización, capacitación y atención de casos de violencia contra las mujeres. La
+Presidencia Ejecutiva también aprobará los procedimientos internos.
+
+-- 11 of 26 --
+
+POLITICA Y
+PROCEDIMIENTO
+N°:
+RH-12
+Página
+12 de 26
+TÍTULO
+Política contra la violencia a las mujeres
+FECHAS
+EMISION
+Noviembre 2019
+FECHA MÁXIMA DE
+PROXIMA REVISION
+Diciembre 2025
+Garnier & Garnier se compromete a conformar un equipo responsable, cuyas acciones se
+dirijan a la prevención y atención de situaciones de violencia en el contexto de pareja. En
+Garnier & Garnier este equipo será denominado Comité de Género.
+El Comité de Género se encargará de la creación de procedimientos para la prevención,
+detección y derivación interna de la violencia contra las mujeres, especialmente asociada al
+hostigamiento sexual y la violencia de pareja, bajo criterios de confidencialidad y
+responsabilidad empresarial.
+Las personas en rol de liderazgo modelaran las conductas deseadas respecto a la equidad de
+género y el respeto a todas las personas colaboradoras del equipo de trabajo. También
+fomentarán la capacitación en materia de violencia de género a las personas de su área de
+trabajo para sensibilizar del tema y mantendrá un ambiente propicio para la atención oportuna
+de casos de violencia que pudiesen presentarse.
+Cada una de las empresas de Garnier & Garnier, con el direccionamiento del Comité de
+Género, elaborará un plan de trabajo permanente dirigido a todas las personas de la
+organización. En este plan se podría incluir acciones de apoyo a organizaciones locales en
+atención de la violencia y participación en eventos como el Dia Internacional para la Eliminación
+de la violencia contra las Mujeres - 25 de noviembre.
+6.4. Comunicación interna y externa
+La empresa divulgará la política de cero tolerancias de la VcM a todas las personas
+colaboradoras de la empresa en todos los niveles de la organización.
+La empresa promoverá la comunicación interna y externa de la siguiente manera:
+Interna:
+• Inducción al personal de nuevo ingreso
+• Capacitación al personal
+• Capacitación especializada al personal de Planeación Comercial (AVON) y Mercadeo
+(Garnier) en temas asociados a la VcM y en general sobre la perspectiva de género,
+violencia simbólica y comunicación no sexista
+• Capacitación especializada a la fuerza de Ventas de AVON (Gerentes de Zona y
+Ejecutivas de Campo) para la prevención, atención primaria y derivación de la violencia
+contra las mujeres.
+• Actualización y capacitación de políticas internas
+• Información en mensajes organizacionales
+
+-- 12 of 26 --
+
+POLITICA Y
+PROCEDIMIENTO
+N°:
+RH-12
+Página
+13 de 26
+TÍTULO
+Política contra la violencia a las mujeres
+FECHAS
+EMISION
+Noviembre 2019
+FECHA MÁXIMA DE
+PROXIMA REVISION
+Diciembre 2025
+Externa:
+• Revista AVON
+• Mensajes (físicos y digitales) a las Asesoras de Belleza AVON
+• Redes sociales de las empresas de Garnier & Garnier
+• Pautas comerciales (en la medida de disponibilidad presupuestaria)
+La empresa garantizará que la publicidad empresarial modele la igualdad entre las personas,
+rechazando cualquier sexismo en sus comunicaciones que exalte el machismo, la violencia o
+la discriminación hacia cualquier persona y específicamente hacia las mujeres y las niñas
+6.5. Asignación de recursos para la ejecución progresiva de la política
+La Presidencia Ejecutiva de Garnier & Garnier, atendiendo las recomendaciones del Comité de
+Género, asignará los recursos necesarios para la implementación, divulgación y ejecución de
+la presente política, tanto a lo interno de la organización como a nivel comunitario en aquellos
+sitios donde existan operaciones de la empresa.
+Las empresas de Garnier & Garnier dedicaran, recursos materiales, humanos, logísticos y
+tecnológicos para promover e implementar la política y sus procedimientos.
+6.6. Promoción de una vida libre de violencia y prevención de la VcM
+Con el objetivo de promover una vida libre de violencia y prevención de la Violencia contra las
+Mujeres, la organización mantendrá las siguientes políticas:
+• Código de conducta ética
+• Política de empresa familiarmente responsable
+• Política Equidad de género y respeto a la diversidad
+• Política contra el Hostigamiento y acoso
+• Política contra la violencia a las mujeres
+Adicional al contenido de las políticas vigentes, en las empresas de Garnier & Garnier se
+realizarán:
+• Las acciones necesarias para la prevención de la violencia contra las mujeres en el
+ámbito laboral y familiar.
+
+-- 13 of 26 --
+
+POLITICA Y
+PROCEDIMIENTO
+N°:
+RH-12
+Página
+14 de 26
+TÍTULO
+Política contra la violencia a las mujeres
+FECHAS
+EMISION
+Noviembre 2019
+FECHA MÁXIMA DE
+PROXIMA REVISION
+Diciembre 2025
+• Las acciones necesarias para la promoción de la cultura de cero tolerancias a
+situaciones de violencia contras las mujeres.
+• Acciones para la detección y atención de la violencia contra las mujeres.
+• Acciones dirigidas a realizar una transformación cultural para desalentar la cultura
+machista.
+• Evaluaciones de necesidades específicas de intervención.
+6.7. Procedimiento para dar respuesta a situaciones de violencia contra las
+mujeres
+La atención de situaciones de violencia contra las mujeres son prioridad ante cualquier otra
+situación. Todos los casos de violencia contra las mujeres que se detecten en la empresa y/o
+con personal de la empresa en su ámbito privado serán abordados de manera inmediata con
+total y absoluta confidencialidad.
+Las personas colaboradoras que detecten casos de violencia contra las mujeres tienen
+obligación de reportarlos en Recursos Humanos.
+Toda la ruta de atención de cualquier situación de VcM que sea detectada por cualquier medio
+dentro de la organización, deberá ser canalizada al Comité de Género y VcM
+6.7.1. Situaciones de Hostigamiento Sexual en el empleo
+Para todas aquellas situaciones relacionadas con hostigamiento sexual producidas en el lugar
+de trabajo, entre personas colaboradoras y según las características descritas en la normativa,
+referirse a la Ley de Hostigamiento Sexual en el Empleo y la Docencia y al Código de Conducta
+Ética, para el trámite respectivo.
+Para derivaciones de atención especializada de colaboradoras que se encuentren enfrentado
+situaciones por hostigamiento podrán igualmente solicitar al Comité de Género y VcM su
+colaboración para la intervención en primeros auxilios psicológicos y su derivación a los
+servicios especializados
+
+-- 14 of 26 --
+
+POLITICA Y
+PROCEDIMIENTO
+N°:
+RH-12
+Página
+15 de 26
+TÍTULO
+Política contra la violencia a las mujeres
+FECHAS
+EMISION
+Noviembre 2019
+FECHA MÁXIMA DE
+PROXIMA REVISION
+Diciembre 2025
+6.7.2. Situaciones de violencia íntima o de pareja detectadas en la
+organización
+Para la atención de situaciones de VcM la organización tomará como base la Guía
+Orientaciones a las empresas privadas para la planificación, detección y referencia de casos
+de situaciones de violencia en el contexto de la relación de pareja (INAMU/PNUD, 2018). Esta
+Guía detalla los pasos a seguir y brinda las recomendaciones específicas, lineamientos y
+recomendaciones para realizar la intervención dentro de la empresa. (Anexo 4).
+Respuesta
+La mujer víctima de casos de violencia debe ser escuchada, en un escenario de empatía. Para
+ello, la entrevista debe ser manejada como una conversación, en donde ésta se sienta segura
+y en condiciones de hablar con libertad.
+En todos los casos, al detectarse la situación de violencia, Recursos Humanos y/o el Comité
+de Género deberán:
+• Brindar primeros auxilios emocionales a las mujeres afectadas
+• Realizar la valoración de riesgo (ver anexo 2). La valoración de riesgo conlleva conocer,
+al menos, la siguiente información:
+o El tipo y gravedad de maltrato sufrido.
+o El lapso en que se ha producido la agresión. Entre más tiempo se presente
+esta, mayor impacto tendrá para la víctima, pues en cada episodio de violencia
+la relación de poder desigual de esta con su victimario se refuerza y consolida,
+dando paso a una mayor desesperanza de la víctima.
+o El estado de salud físico y emocional de la mujer.
+o Los recursos (económicos, familiares y personales) con los que cuenta la mujer
+a la hora de la valoración.
+o El patrón de la violencia, indagando sobre el primero, más grave, frecuente y
+último evento de violencia.
+o Asimismo, es importante enfatizar que la mayoría de las mujeres suelen
+denunciar cuando existe grave riesgo para su integridad física o la de sus hijas
+e hijos o cuando la violencia se repite de manera cada vez más frecuente e
+intensa.
+• Orientar a la mujer agredida respecto a cómo hacer un plan de emergencia en la casa
+(incluyendo ruta de escape y bolso de emergencia), en el trabajo, en sus
+desplazamientos y en la calle. El plan de emergencias debe incluir las situaciones de
+
+-- 15 of 26 --
+
+POLITICA Y
+PROCEDIMIENTO
+N°:
+RH-12
+Página
+16 de 26
+TÍTULO
+Política contra la violencia a las mujeres
+FECHAS
+EMISION
+Noviembre 2019
+FECHA MÁXIMA DE
+PROXIMA REVISION
+Diciembre 2025
+vulnerabilidad a la que puedan exponerse las personas dependientes de la mujer
+agredida.
+• Brindar información y poner de inmediato en contacto a la mujer con las instituciones u
+organizaciones encargadas de dar atención integral y especializada a la violencia que
+se viven el contexto de las relaciones de pareja.
+• Realizar un enlace telefónico con el servicio especializado para la atención, no realizar
+el contacto por correo o dejar a la mujer colaboradora solo con la referencia.
+• Registrar y documentar cada situación en un archivo especial, diferente al expediente
+personal, administrado con absoluta confidencialidad por Recursos Humanos.
+La derivación de casos se realizará considerando la “Guía de recursos para derivación de casos
+de violencia contra las mujeres” (Anexo 3).
+La empresa facilitará a las mujeres afectadas por violencia los permisos con goce de salario
+que se requieran para asistir a las autoridades y/o instituciones competentes de atender el caso
+de violencia, inclusive en caso de que deban ser ingresadas a un Centro Especializado de
+Atención y Albergue del INAMU. Las mujeres que vivan procesos de violencia en su contra
+gozarán de protección especial en su puesto de trabajo y solo podrán ser despedidas en casos
+de faltas graves con la debida validación de Recursos Humanos y Comité de Género.
+Recursos Humanos y el Comité de Género darán seguimiento y apoyo, paralelo al facilitado
+por las autoridades y/o instituciones competentes, a las mujeres víctimas de violencia. Se
+brindará un seguimiento por la persona del Comité de Género y VcM que realizó la intervención
+por un plazo de 6 meses para conocer los avances y los espacios de atención que está
+recibiendo la colaboradora. Dichas entrevistas no tendrán el objetivo de ahondar en la situación
+que ya la colaboradora está tratando en otros espacios, sino de saber su situación de contexto
+y algunos problemas que pueda enfrentar al momento.
+La empresa avisará a Seguridad y/o Administración de Condominio, y Recepción respecto a la
+imposibilidad que tiene el agresor de ingresar a las instalaciones de la empresa. En caso de
+que la presunta persona ofensora se presente a las instalaciones de la empresa, se dará aviso
+al 9-1-1 y/o a la Delegación de Policía.
+6.7.3. Acoso Callejero
+La Presidencia Ejecutiva de Garnier & Garnier proveerá los recursos necesarios para la
+sensibilización, capacitación, prevención y atención de casos de acoso callejero contra las
+mujeres.
+
+-- 16 of 26 --
+
+POLITICA Y
+PROCEDIMIENTO
+N°:
+RH-12
+Página
+17 de 26
+TÍTULO
+Política contra la violencia a las mujeres
+FECHAS
+EMISION
+Noviembre 2019
+FECHA MÁXIMA DE
+PROXIMA REVISION
+Diciembre 2025
+Garnier & Garnier se compromete a promover una cultura de cero tolerancia a cualquier tipo
+de representación sexual que se reconozca como acoso callejero; se extenderá tanto a las
+personas que laboran dentro de la organización, así como a proveedores y contratistas
+Entre otras, y sin limitarse a, se consideran como representación sexual de acoso callejero las
+siguientes acciones:
+• Acciones expresivas: miradas, gestos y movimientos lascivos.
+• Verbales: Silbidos, frases, sonidos de besos, etc.
+• Físicos: Contacto físico, rozamientos, exhibicionismo, masturbación pública, grabación
+de material audiovisual y persecuciones.
+6.7.3.1. Alcance
+Aplica para todas las personas que laboran en las empresas de Garnier & Garnier, así como
+sus proveedores y contratistas externos.
+6.7.3.2. Comunicación
+• Personal de nuevo ingreso: Recibirán la capacitación en su proceso de inducción
+interna.
+• Personal activo: Anualmente se impartirá una charla junto con el refrescamiento de
+otras políticas de la organización.
+• Personal externo: Se realizará un proceso de capacitación anual para Distribución y
+principales proveedores externos.
+6.7.3.3. Acciones
+• Promoción de talleres en los proyectos que desarrolla y administra la empresa.
+• Capacitación al personal femenino sobre el proceso de denuncia.
+• Incorporar la política al proceso de reclutamiento.
+• Rotulación sobre acciones prohibidas tanto para el personal, así como para
+proveedores y contratistas externos.
+• Incluir un apartado de la política contra la violencia a las mujeres en la política de
+proveedores.
+
+-- 17 of 26 --
+
+POLITICA Y
+PROCEDIMIENTO
+N°:
+RH-12
+Página
+18 de 26
+TÍTULO
+Política contra la violencia a las mujeres
+FECHAS
+EMISION
+Noviembre 2019
+FECHA MÁXIMA DE
+PROXIMA REVISION
+Diciembre 2025
+• Capacitar al personal de Recursos Humanos y Jefaturas para atender situaciones de
+acoso callejero
+6.7.3.4. Sanciones
+Cualquier falta comprobada de acoso callejero será considerada una falta grave al contrato de
+trabajo, lo que podría desembocar en un despido sin responsabilidad patronal.
+7. CONSULTAS Y/O DENUNCIAS POR INCUMPLIMIENTO
+Cualquier persona de la empresa que desee presentar una denuncia por incumplimiento, lo
+podrá hacer a su respectiva Jefatura Inmediata, quien deberá reportar la denuncia a Recursos
+Humanos. Si la Jefatura Inmediata es la involucrada, debe presentar el caso a la Gerencia de
+Recursos Humanos.
+Si la denuncia involucra a la Gerencia de Recursos Humanos, esta deberá presentar el caso a
+la Gerencia General. En caso de ser la Gerencia General la parte imputada, esta deberá
+suministrarse a la Jefatura de Recursos Humanos y a la Presidencia de la Junta Directiva.
+La denuncia deberá ser acompañada con la prueba respectiva o con las razones o argumentos
+necesarios que la sustenten. Las denuncias se presentarán ante la Jefatura de Recursos
+Humanos, dependencia que las recopilará y realizará la investigación administrativa preliminar,
+para lo cual deberá de adjuntar declaraciones por escrito de la persona denunciante, el acta
+respectiva y las posibles pruebas.
+Las denuncias por incumplimiento de la presente política se podrán remitir y serán recibidas de
+forma confidencial al correo etica@garnier.cr /etica@avon.cr, según corresponda.
+Las consultas o dudas que pudiesen derivarse de la presente política se podrán remitir al correo
+recursoshumanos@garnier.cr / recursoshumanos@avon.cr, según corresponda.
+8. DESVIACIONES Y/O SANCIONES POR INCUMPLIMIENTO
+El incumplimiento de lo dispuesto en la presente política constituye una falta que se regulará
+según su gravedad considerando lo dispuesto por la legislación laboral costarricense.
+
+-- 18 of 26 --
+
+POLITICA Y
+PROCEDIMIENTO
+N°:
+RH-12
+Página
+19 de 26
+TÍTULO
+Política contra la violencia a las mujeres
+FECHAS
+EMISION
+Noviembre 2019
+FECHA MÁXIMA DE
+PROXIMA REVISION
+Diciembre 2025
+Para la determinación de la sanción, se tomará en cuenta la gravedad de la falta y el perjuicio
+ocasionado por el incumplimiento de la persona.
+9. MECANISMOS DE VERIFICACION
+La implementación de la Política contra la violencia a las mujeres se verificará de la siguiente
+manera:
+• Recursos Humanos se encargará de documentar los casos o situaciones de violencia
+contra las mujeres y denuncias por hostigamiento sexual, desagregados según tipo de
+violencia, sexo y conclusión.
+• Reportes de indicadores claves al Comité Gerencial y Junta Directiva de la empresa
+con frecuencia trimestral y anual respectivamente.
+o % de cumplimiento programa de capación de VcM
+o % de cumplimiento de planes de acción
+o Cantidad de casos de VcM
+o Cantidad de denuncias por hostigamiento sexual
+o Cantidad de licencias
+
+-- 19 of 26 --
+
+POLITICA Y
+PROCEDIMIENTO
+N°:
+RH-12
+Página
+20 de 26
+TÍTULO
+Política contra la violencia a las mujeres
+FECHAS
+EMISION
+Noviembre 2019
+FECHA MÁXIMA DE
+PROXIMA REVISION
+Diciembre 2025
+10. CONTROL DE CAMBIOS
+Nombre: Política contra la violencia a las mujeres
+REVISION
+NUMERO
+TIPO DE CAMBIO REALIZADO POR FECHA
+1 Emisión del documento Comité de Género y VcM Noviembre 2019
+2 Inclusión de acoso
+callejero Recursos Humanos Octubre 2020
+3
+Actualización de
+antecedentes,
+conceptos y
+nomenclatura.
+Inclusión de denuncias
+y/o consultas por
+incumplimiento.
+Sostenibilidad / UCR/
+Recursos Humanos
+Diciembre 2020
+4 Actualización de
+estadísticas Recursos Humanos Diciembre 2024
+EMITIDO POR REVISADO POR Aprobado por
+Recursos
+Humanos / Comité
+de Género
+Comité Gerencial Presidencia Ejecutiva
+
+-- 20 of 26 --
+
+POLITICA Y
+PROCEDIMIENTO
+N°:
+RH-12
+Página
+21 de 26
+TÍTULO
+Política contra la violencia a las mujeres
+FECHAS
+EMISION
+Noviembre 2019
+FECHA MÁXIMA DE
+PROXIMA REVISION
+Diciembre 2025
+11. ANEXO 1: Marco Jurídico
+Convenios Internacionales
+• La Declaración Universal de Derechos Humanos: Del 10 de diciembre de 1948
+adoptado por la Asamblea General de las Naciones Unidas que establece que todas
+las personas son iguales ante la ley.
+• Convención Interamericana sobre la Concesión de los Derechos Políticos a la Mujer.
+De 1948, dispone que las mujeres tienen derecho a igual tratamiento político que el
+hombre y consecuentemente igual tratamiento social.
+• Convención sobre los Derechos Civiles y Políticos de la Mujer. De 1952, busca la
+equiparación de hombres y mujeres en el goce y ejercicio de los derechos civiles.
+• Pacto Internacional sobre Derechos Civiles y Políticos. De 1966, busca a garantizar a
+hombres y mujeres la igualdad en el goce de todos los derechos civiles y políticos.
+• Convención Americana de Derechos Humanos. Del 22 de noviembre de 1969, que
+establece que todas las personas son iguales ante la ley. En consecuencia, tienen
+derecho, sin discriminación, a igual protección de la ley.
+• La Convención para la Eliminación de Todas Formas de Discriminación en Contra de
+las Mujeres (CEDAW). Del 18 de diciembre de 1979, ratificada por Costa Rica en 1984
+por medio de Ley No.6968, que establece el fomento a la eliminación a la discriminación
+contra la mujer en la esfera del empleo a fin de asegurar, en condiciones de igualdad
+entre hombres y mujeres.
+• La Declaración de Viena. 1993
+• Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia en Contra
+de la Mujer (Convención de Belem do Pará). De 1994, ratificada en Cosa Rica en 1995
+bajo la Ley 7499, busca la erradicación de la violencia contra las mujeres siendo esta
+una ofensa a la dignidad humana y una manifestación de las relaciones de poder
+históricamente desiguales entre mujeres y hombres.
+• Plataforma para la Acción de Beijing. De 1995, es un programa encaminado a crear
+condiciones necesarias para la potenciación del papel de la mujer en la sociedad.
+• Declaración de los Objetivos de Desarrollo del Milenio (ONU, 2000)
+• Naciones Unidas (2015) Agenda 2030 para el Desarrollo Sostenible. Adoptada en la
+Cumbre del Milenio. NY, 25 setiembre 2015.
+Legislación Nacional
+• Código de Trabajo y Reforma Procesal Laboral
+• Ley de Promoción de la Igualdad Social de la Mujer. De 1990, establece la promoción
+de la igualdad de las mujeres en aspectos políticos, educativos y laborales (protección
+a la mujer embarazada, prohibición de que se ejecuten labores insalubres, peligrosas,
+capacitación a las mujeres en cuanto a sus derechos laborales).
+
+-- 21 of 26 --
+
+POLITICA Y
+PROCEDIMIENTO
+N°:
+RH-12
+Página
+22 de 26
+TÍTULO
+Política contra la violencia a las mujeres
+FECHAS
+EMISION
+Noviembre 2019
+FECHA MÁXIMA DE
+PROXIMA REVISION
+Diciembre 2025
+• Ley de Violencia Doméstica, Ley 7586 (1996) y su reforma de ley 8925 (2011). Busca
+establecer las medidas de protección de las mujeres que sufren violencia doméstica y
+prohibir la entrada del o la agresora al centro de trabajo.
+• Ley de Penalización de la Violencia en Contra de las Mujeres, Ley 8589 (2007), busca
+penalizar con sanciones penalizar el maltrato a las mujeres.
+• Ley de Hostigamiento Sexual en el Empleo y la Docencia, Ley 7476 (1995) y su reforma
+de ley 8805 (2010), establece protección al denunciante de supuesto acoso sexual en
+centros de trabajo.
+• Ley del Sistema de Banca para el Desarrollo. Del 2008, impulsa proyectos productivos
+y brinda mayor ayuda a grupos como las mujeres.
+• Reforma al capítulo VIII del Código de Trabajo (referido al trabajo doméstico). Del 2009,
+se establecen mayores protecciones a las servidoras del trabajo doméstico que en su
+mayoría son mujeres.
+• Ley 9877 Contra el Acoso Sexual Callejero (2020), cuyo objetivo es garantizar el
+derecho igualitario de todas las personas a transitar los espacios públicos libres de
+acoso sexual, estableciendo medidas para prevenir y sancionar esta forma de violencia.
+Documentos de referencia
+▪ UN Women/INAMU (2019) Manual para la implementación de estándares para la
+prevención y respuesta de la violencia contra las mujeres desde los espacios laborales
+y la construcción de organizaciones cero tolerantes con la VcM. Estándares guía para
+el apoyo al capítulo 7.2 incisos b) y c) del Sistema de Gestión para la Igualdad de
+Género (SISIG) INTE 38-01-01:2015 2da edición.
+▪ INAMU (2018) Orientaciones a las empresas privadas para la planificación, detección y
+referencia de casos de situaciones de violencia en el contexto de la relación de pareja
+/ Instituto Nacional de las Mujeres; Programa de Naciones Unidas para el Desarrollo—
+1 ed—San José, CR: INAMU (Colección Tenemos Derechos a tener derechos; n. 87;
+Subserie Autonomía Económica de las Mujeres; n.6).
+▪ INAMU (2017). Guía para la Elaboración de Políticas de Igualdad de género en las
+organizaciones públicas y privadas / Instituto Nacional de las Mujeres; Programa de
+Naciones Unidas para el Desarrollo—1 ed—San José, CR: INAMU (Colección Tenemos
+Derechos a tener derechos; n.78; Subserie Autonomía Económica de las Mujeres; n.2).
+▪ INAMU (2014) Protocolo Interinstitucional de Intervención, Valoración y Administración
+del Riesgo en Situaciones de Violencia contra las Mujeres en relaciones de Pareja. –
+1era ed—San José: Instituto Nacional de las Mujeres (Colección Normativa para la
+
+-- 22 of 26 --
+
+POLITICA Y
+PROCEDIMIENTO
+N°:
+RH-12
+Página
+23 de 26
+TÍTULO
+Política contra la violencia a las mujeres
+FECHAS
+EMISION
+Noviembre 2019
+FECHA MÁXIMA DE
+PROXIMA REVISION
+Diciembre 2025
+Gestión Pública; n.3). Decreto Ejecutivo N° 40846-MCM-JP-S-MSP publicado en La
+Gaceta, no. 19, 30 enero 2018.
+▪ INAMU (2017) Política Nacional para la atención y la prevención de la violencia contra
+las mujeres de todas las edades 2017-2032/ Instituto Nacional de las Mujeres ---1era
+ed---San José, CR: INAMU (Colección Políticas Públicas para la Igualdad y Equidad de
+Género; n. 12; Estrategias e Instrumentos de Política Pública, n.12).
+
+-- 23 of 26 --
+
+POLITICA Y
+PROCEDIMIENTO
+N°:
+RH-12
+Página
+24 de 26
+TÍTULO
+Política contra la violencia a las mujeres
+FECHAS
+EMISION
+Noviembre 2019
+FECHA MÁXIMA DE
+PROXIMA REVISION
+Diciembre 2025
+12. ANEXO 2: Escala de valoración de riesgo de femicidio
+Nombre: ___________________________________________________________ Edad: ___________
+Cédula: ________________ Teléfono: _________________ Fecha de valoración: _________________
+Nombre persona ofensora: ____________________________________________ Edad: ___________
+Nacionalidad: ____________ Tiempo de relación: ___________ Fecha última agresión: ____________
+Item Conductas de alto riesgo de muerte 1 SI NO NR Observaciones
+1 ¿Ha habido agresiones físicas graves que
+causaron lesiones a la víctima o ameritaron una
+intervención médica?
+2 ¿Ha usado o amenazado con usar un arma de
+fuego, cuchillo o cualquier otra arma letal contra
+la víctima?
+3 ¿Ha intentado el agresor ahorcar a la víctima?
+4 ¿Ha forzado a la víctima a tener relaciones o
+practicar actos de contenido sexual en contra de
+su voluntad?
+5 ¿Ha amenazado con matar a la víctima?
+6 ¿Presenta el agresor celos muy intensos,
+violentos y/o conductas controladoras sobre la
+pareja?
+7 ¿Ha habido un aumento en la frecuencia y/o
+gravedad de los incidentes violentos en el último
+mes?
+8 El agresor NO expresa responsabilidad ni culpa
+por su conducta
+Otros factores agravantes del riesgo de
+muerte
+SI NO NR Observaciones
+9 ¿Hay consumo reciente y abusivo de alcohol y/o
+drogas por parte del agresor? 2
+10 ¿Ha interpuesto la víctima medidas de
+protección, pensión alimentaria o denuncia penal
+contra el agresor? 2
+11 ¿Está o ha estado vinculado el agresor con
+actividades delictivas como pandillas,
+narcotráfico o crimen organizado? 2
+
+-- 24 of 26 --
+
+POLITICA Y
+PROCEDIMIENTO
+N°:
+RH-12
+Página
+25 de 26
+TÍTULO
+Política contra la violencia a las mujeres
+FECHAS
+EMISION
+Noviembre 2019
+FECHA MÁXIMA DE
+PROXIMA REVISION
+Diciembre 2025
+12 ¿Siente la víctima que el agresor es capaza de
+matarla personalmente o a través de terceras
+personas? 2
+13 ¿Ha habido intentos o ideas de suicidio por parte
+del agresor?
+Historial previo del agresor que incrementa el
+riesgo
+SI NO NR Observaciones
+14 ¿El agresor tiene antecedentes penales
+relacionados con violencia hacia las mujeres y/o
+delitos sexuales?
+15 ¿Al agresor le han interpuesto medidas de
+protección anteriormente u otras medidas
+relacionadas con violencia contra la pareja?
+16 ¿El agresor ha incumplido medidas de
+protección o de libertad condicional?
+17 ¿Ha existido violencia física hacia la pareja en
+presencia de los hijos (as) u otros familiares?
+18 ¿Ha existido violencia física hacia los hijos (as) u
+otros familiares?
+19 ¿El agresor presenta historial de conductas
+violentas contra otras personas NO familiares,
+conocidas o desconocidas?
+20 ¿El agresor ha realizado conductas de crueldad
+contra animales?
+21 ¿El agresor tiene historial de reaccionar
+violentamente frente a las figuras de autoridad
+(policías, jueces, etc.)
+Notas:
+1 La presencia de cualquiera de los primeros ocho factores indican un alto riesgo de muerte para las
+mujeres.
+2 Una sola de estas situaciones unida a cualquiera de los primeros ocho factores tipifican riesgo
+severo.
+
+-- 25 of 26 --
+
+POLITICA Y
+PROCEDIMIENTO
+N°:
+RH-12
+Página
+26 de 26
+TÍTULO
+Política contra la violencia a las mujeres
+FECHAS
+EMISION
+Noviembre 2019
+FECHA MÁXIMA DE
+PROXIMA REVISION
+Diciembre 2025
+13. ANEXO 3: Guía de recursos para derivación de casos de violencia contra las
+mujeres
+• 9-1-1: Atención de la emergencia y activación de instituciones para la protección.
+• Delegación de la Mujer: Centro Especializado de atención de mujeres en situación
+de Violencia contra las Mujeres.
+• INAMU: Atención especializada y asesoría.
+• Oficinas Municipales de la Mujer: Atención y asesoría especializada.
+• Delegaciones de policía: Protección en caso de riesgo inminente. También pueden
+acompañar a las víctimas a poner la denuncia en los juzgados.
+• Juzgados: Recepción de denuncias y aplicación de las leyes vigentes, incluyendo
+la emisión de medidas de protección y seguimiento del caso.
+• CCSS (hospitales y clínicas): Atención de lesiones y atención psicosocial.
+Redes para Derivación de VcM.docx
+14. ANEXO 4: Guía Orientaciones a las empresas privadas para la planificación,
+detección y referencia de casos de situaciones de violencia en el contexto de la
+relación de pareja (INAMU/PNUD, 2018)
+https://www.inamu.go.cr/documents/10179/831878/Orientaciones+a+empresas+situacio
+nes+violencia+Dig.pdf/e83a2e9f-debf-4992-9894-09f9ce8658ca
+
+-- 26 of 26 --
+

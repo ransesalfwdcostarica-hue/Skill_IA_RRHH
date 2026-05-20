@@ -1,0 +1,720 @@
+POLITICA Y
+PROCEDIMIENTO
+N°:
+RH-13
+Página
+1 de 18
+TÍTULO
+Política de Teletrabajo
+FECHAS
+EMISION
+Febrero 2016
+FECHA MÁXIMA DE
+PROXIMA REVISION
+Diciembre 2025
+TABLA DE CONTENIDOS
+1. PROPÓSITO ................................................................................................................................................ 3
+2. DECLARACION DE POLÍTICA ....................................................................................................................... 3
+3. ALCANCE .................................................................................................................................................... 4
+4. RESPONSABLES .......................................................................................................................................... 4
+5. CONCEPTOS Y NOMENCLATURA ................................................................................................................ 4
+6. DESCRIPCIÓN DEL PROCEDIMIENTO .......................................................................................................... 6
+6.1. ASPECTOS GENERALES ............................................................................................................................... 6
+6.2. CRITERIOS DE ELEGIBILIDAD ...................................................................................................................... 6
+6.3. CANTIDAD DE DÍAS DE TELETRABAJO ........................................................................................................ 7
+6.4. HORARIO DE TELETRABAJO ....................................................................................................................... 7
+6.5. SALUD Y SEGURIDAD OCUPACIONAL ......................................................................................................... 8
+6.5.1. ESPACIO FÍSICO ................................................................................................................................. 8
+6.5.2. VENTILACIÓN .................................................................................................................................... 8
+6.5.3. ILUMINACIÓN.................................................................................................................................... 8
+6.5.4. RUIDO ............................................................................................................................................... 8
+6.5.5. MESA DE TRABAJO ............................................................................................................................ 8
+6.5.6. SILLA.................................................................................................................................................. 9
+6.5.7. MONITOR .......................................................................................................................................... 9
+6.5.8. TECLADO Y MOUSE ............................................................................................................................ 9
+6.5.9. POSTURA ........................................................................................................................................... 9
+6.5.10. POSTURA ESTÁTICA ......................................................................................................................... 10
+6.5.11. PAUSAS LABORALES SALUDABLES ................................................................................................... 10
+6.6. RIESGOS DE TRABAJO .............................................................................................................................. 10
+6.7. SOLICITUD DE TELETRABAJO .................................................................................................................... 11
+6.8. DEBERES Y DERECHOS DE LA PERSONA TELETRABAJADORA .................................................................... 11
+6.9. DEBERES DE LA EMPRESA ........................................................................................................................ 12
+
+-- 1 of 18 --
+
+POLITICA Y
+PROCEDIMIENTO
+N°:
+RH-13
+Página
+2 de 18
+TÍTULO
+Política de Teletrabajo
+FECHAS
+EMISION
+Febrero 2016
+FECHA MÁXIMA DE
+PROXIMA REVISION
+Diciembre 2025
+7. CONSULTAS Y/O DENUNCIAS POR INCUMPLIMIENTO ............................................................................. 13
+8. DESVIACIONES Y/O SANCIONES POR INCUMPLIMIENTO ......................................................................... 14
+9. MONITOREO Y CONTROL ......................................................................................................................... 14
+10. CONTROL DE CAMBIOS ............................................................................................................................ 14
+11. ANEXOS ................................................................................................................................................... 16
+
+-- 2 of 18 --
+
+POLITICA Y
+PROCEDIMIENTO
+N°:
+RH-13
+Página
+3 de 18
+TÍTULO
+Política de Teletrabajo
+FECHAS
+EMISION
+Febrero 2016
+FECHA MÁXIMA DE
+PROXIMA REVISION
+Diciembre 2025
+1. PROPÓSITO
+El propósito de esta política es constituir un marco de referencia que permita establecer los
+lineamientos generales y las acciones mínimas esperadas para promover el teletrabajo,
+acordes a las tendencias del mercado, a los objetivos empresariales, a las necesidades de las
+personas, a las condiciones sanitarias del país; asegurando una cultura organizacional
+amigable con la persona y su familia.
+2. DECLARACION DE POLÍTICA
+• Garnier & Garnier promoverá el bienestar integral de las personas que trabajan al
+servicio de la organización y a la vez proveerles el mejor ambiente de trabajo posible.
+• Garnier & Garnier se esfuerza por mejorar la productividad en ambientes de trabajo que
+permitan a las personas cumplir con sus deberes y necesidades personales y/o
+familiares.
+• El teletrabajo le permite a la persona trabajar desde diferentes ubicaciones incluyendo
+sus casas. Esto le permite reducir el riesgo de contagio de enfermedades y ahorrar el
+tiempo de desplazamiento para:
+• atender sus necesidades personales y familiares,
+• realizar algunas responsabilidades en el hogar como llevar hijos (as) al centro
+de cuido y/o de estudios,
+• atender familiares enfermos, y
+• apoyar el cuido de adultos (as) mayores en la familia.
+
+-- 3 of 18 --
+
+POLITICA Y
+PROCEDIMIENTO
+N°:
+RH-13
+Página
+4 de 18
+TÍTULO
+Política de Teletrabajo
+FECHAS
+EMISION
+Febrero 2016
+FECHA MÁXIMA DE
+PROXIMA REVISION
+Diciembre 2025
+3. ALCANCE
+Las disposiciones establecidas en la presente política aplicarán para la totalidad de
+personas colaboradoras de las empresas de Garnier & Garnier cuyos puestos permitan el
+teletrabajo.
+Esta política podría modificarse total o parcialmente y/o eliminarse de acuerdo con las
+tendencias de mercado, de la legislación laboral y a discreción de la Presidencia Ejecutiva
+de Garnier & Garnier.
+4. RESPONSABLES
+• Es responsabilidad de la Presidencia Ejecutiva de Garnier & Garnier la aprobación de
+esta política, así como cualquier modificación parcial o total que se pudiese presentar
+en el futuro.
+• Es responsabilidad de Recursos Humanos liderar el proceso que permita un bienestar
+integral para las personas de la organización.
+• Es responsabilidad de las personas en roles de Dirección, Gerencia, Jefatura,
+Supervisión y Coordinación la colaboración en los aspectos que sean requeridos para
+la implementación de la política. Además, deberán planear eficazmente la asignación
+de teletrabajo en sus respectivas áreas de forma que se cumplan con las necesidades
+y objetivos organizacionales.
+• Es responsabilidad de todas las personas de la organización respetar lo dispuesto en
+la presente política.
+• El acondicionamiento del espacio físico en donde la persona realiza el teletrabajo y la
+conexión a internet es responsabilidad exclusiva de la persona solicitante.
+5. CONCEPTOS Y NOMENCLATURA
+• Desconexión digital: Es el derecho de las personas teletrabajadoras de no realizar
+actividades o comunicaciones relacionadas con el trabajo por medio de herramientas
+digitales, directa o indirectamente, fuera del tiempo de trabajo, una vez cumplidas sus
+responsabilidades.
+
+-- 4 of 18 --
+
+POLITICA Y
+PROCEDIMIENTO
+N°:
+RH-13
+Página
+5 de 18
+TÍTULO
+Política de Teletrabajo
+FECHAS
+EMISION
+Febrero 2016
+FECHA MÁXIMA DE
+PROXIMA REVISION
+Diciembre 2025
+• Teletrabajo: modalidad de trabajo que se realiza fuera de las instalaciones de la persona
+empleadora, utilizando las tecnologías de la información y comunicación sin afectar el
+normal desempeño de otros puestos, de los procesos y de los servicios que se brindan.
+Esta modalidad de trabajo está sujeta a los principios de oportunidad y conveniencia, donde
+la persona empleadora y la persona teletrabajadora definen sus objetivos y la forma en
+cómo se evalúan los resultados del trabajo.
+• Persona teletrabajadora: persona protegida por esta regulación, que teletrabaja en relación
+de dependencia o subordinación.
+• Riesgos ergonómicos: Son riesgos a la salud originados cuando la persona teletrabajadora
+realiza algún tipo de movimiento, postura o acción que le produce un daño a su salud
+durante su jornada de teletrabajo. Por ejemplo: posturas inadecuadas, levantamiento de
+cargas, movimientos repetitivos, entre otros.
+• Telecentro: espacio físico acondicionado con las tecnologías digitales e infraestructura, que
+le permite a las personas teletrabajadoras realizar sus actividades y facilita el desarrollo de
+ambientes colaborativos que promueven el conocimiento para innovar esquemas laborales
+de alto desempeño.
+• Teletrabajo domiciliario: se da cuando las personas trabajadoras ejecutan sus actividades
+laborales desde su domicilio.
+• Teletrabajo móvil: se da cuando las personas trabajadoras realizan sus funciones de
+manera itinerante, ya sea en el campo o con traslados constantes, con ayuda del uso de
+equipos móviles que sean fácilmente utilizables y transportables.
+
+-- 5 of 18 --
+
+POLITICA Y
+PROCEDIMIENTO
+N°:
+RH-13
+Página
+6 de 18
+TÍTULO
+Política de Teletrabajo
+FECHAS
+EMISION
+Febrero 2016
+FECHA MÁXIMA DE
+PROXIMA REVISION
+Diciembre 2025
+6. DESCRIPCIÓN DEL PROCEDIMIENTO
+6.1. Aspectos generales
+El teletrabajo es voluntario para la persona teletrabajadora. El teletrabajo domiciliario se
+considerará obligatorio por razones especiales, entre ellas las sanitarias. El teletrabajo móvil
+es aceptado en la medida que se mantengan los estándares de servicio, disponibilidad para
+reunirse y resultados.
+El teletrabajo modificará única y exclusivamente la organización y la forma en que se efectúa
+el trabajo, sin afectar las condiciones de la relación laboral de la persona teletrabajadora, quien
+mantiene los mismos beneficios y obligaciones de aquellas personas que desarrollen funciones
+equiparables con las de la persona teletrabajadora en las instalaciones físicas de la empresa.
+Los criterios de medición, evaluación y control de la persona teletrabajadora, ya sea domiciliar
+o móvil, serán los mismos que se utilizan en su trabajo presencial y mediante los indicadores
+de desempeño previamente acordados entre las partes.
+La empresa, mediante las personas en rol de Dirección, Gerencia y Jefatura de Área, tiene la
+potestad de otorgar y revocar la modalidad de teletrabajo, cuando así lo considere conveniente,
+con fundamento en las políticas vigentes, en el desempeño de la persona teletrabajadora y en
+las condiciones sanitarias del país. Dicha revocatoria deberá plantearse con al menos dos
+semanas de anticipación.
+No podrá utilizarse el teletrabajo como medio para propiciar tratos discriminatorios en perjuicio
+de las personas trabajadoras. Las personas teletrabajadoras tienen el mismo acceso a la
+formación y a las oportunidades de desarrollo de la carrera administrativa y profesional que sus
+homólogos que laboran en las instalaciones físicas de la empresa.
+6.2. Criterios de elegibilidad
+Serán elegibles para el teletrabajo todas las personas que cumplan con los siguientes
+requisitos:
+1. Que la naturaleza del puesto les permita desempeñar sus funciones de manera virtual.
+2. Que el resultado de la evaluación de desempeño sea igual o superior a 80%
+3. Que demuestren capacidad de autogestión.
+
+-- 6 of 18 --
+
+POLITICA Y
+PROCEDIMIENTO
+N°:
+RH-13
+Página
+7 de 18
+TÍTULO
+Política de Teletrabajo
+FECHAS
+EMISION
+Febrero 2016
+FECHA MÁXIMA DE
+PROXIMA REVISION
+Diciembre 2025
+4. Que tengan una antigüedad laboral igual o superior a tres meses, salvo aquellos casos
+en donde la persona ingrese en condiciones especiales de seguridad y/o sanitarias en
+cuyo caso podrá teletrabajar desde su ingreso.
+5. Que no hubiesen recibido apercibimientos escritos durante el trimestre previo a la
+solicitud de teletrabajo.
+6. Que tengan conexión a internet que les permita recibir y responder correos electrónicos,
+ingresar a los sistemas de información de la empresa requeridos para el desempeño de
+las funciones y reunirse virtualmente. Se recomienda una conexión a internet con una
+velocidad mínima de 10 MB. La persona solicitante deberá recibir una validación previa
+por parte del departamento de Tecnología de Información (Anexo 1).
+6.3. Cantidad de días de teletrabajo
+A las personas elegibles se les otorgará un máximo de dos (2) días de teletrabajo por semana.
+Cada persona en rol de Dirección, Gerencia o Jefatura de Área deberá planear la asignación
+de teletrabajo de forma que se cumplan con las necesidades y objetivos organizacionales.
+La cantidad de días de teletrabajo podría ampliarse, sin limitarse a, por razones de seguridad
+y/o sanitarias.
+Las posiciones cuyas responsabilidades puedan desempeñarse en teletrabajo podrían tener
+teletrabajo de manera permanente, esto en la medida que cumplan con sus deberes y
+mantengan sus indicadores de desempeño y entregables estables.
+6.4. Horario de teletrabajo
+Durante el teletrabajo la persona teletrabajadora tendrá el mismo horario de trabajo y tiempos
+de descanso en los que habitualmente se desempeña en las instalaciones de la empresa.
+La persona teletrabajadora debe cumplir con el horario establecido, su jornada laboral y estar
+disponible para la persona empleadora durante dicho horario y jornada. El incumplimiento de
+la jornada u horario de trabajo, o bien, el no estar disponible para la persona empleadora
+durante dicho horario y jornada serán considerados como abandono de trabajo, conforme al
+inciso a) del artículo 72 de la Ley N.º 2, Código de Trabajo y será causal para que la persona
+sea considerada no elegible para teletrabajo.
+.
+Ante situaciones calificadas la Jefatura Inmediata podrá solicitar a la persona que se traslade
+a la empresa, sin que esto implique que la persona podrá disfrutar de otro día de teletrabajo.
+
+-- 7 of 18 --
+
+POLITICA Y
+PROCEDIMIENTO
+N°:
+RH-13
+Página
+8 de 18
+TÍTULO
+Política de Teletrabajo
+FECHAS
+EMISION
+Febrero 2016
+FECHA MÁXIMA DE
+PROXIMA REVISION
+Diciembre 2025
+6.5. Salud y Seguridad Ocupacional
+Durante el teletrabajo se deberán considerar las siguientes condiciones para prevenir y/o
+minimizar el impacto de accidentes y enfermedades laborales.
+6.5.1.Espacio físico
+Se recomienda que el espacio físico cuente con un área mínima de 2m2 libres por persona y la altura del
+cielo raso no sea inferior a 2,5 m. Además, es necesario que el mismo esté acondicionado para colocar
+los insumos y equipos necesarios para la realización del trabajo sin causar incomodidades.
+6.5.2.Ventilación
+Todo lugar de trabajo necesita ventilarse, ya sea de forma natural a través de puertas o ventanas o por
+medios mecánicos, como, por ejemplo, abanicos o aires acondicionados, que permitan un ambiente
+confortable, calidad del aire y confort térmico.
+6.5.3.Iluminación
+Asegurarse que la estación de trabajo se ubique de forma tal que las fuentes de luz, tanto naturales
+como artificiales, no provoquen deslumbramiento directo ni produzcan reflejos molestos en el monitor
+de la computadora u otras superficies, colocando el puesto de trabajo de forma perpendicular a la
+ventana o fuente de luz, sea esta natural o artificial. Si la iluminación natural y artificial resulta
+insuficiente, puede utilizarse iluminación localizada, por ejemplo, una lámpara con sombra, o una
+lámpara especial para lectura. Esta debe colocarse de forma que no coincida con el ángulo de visión de
+la persona. Si se dispone de luz natural por medio de ventanas o puertas de vidrio, se recomienda
+colocar elementos de protección regulables, como persianas, cortinas o rollos, que impidan tanto el
+contraste excesivo como la incomodidad térmica provocados por los rayos del sol.
+6.5.4.Ruido
+El espacio donde se ubique la estación de trabajo, en la medida de las posibilidades, debe estar alejado
+de los ruidos externos, como los del tráfico y los ruidos del entorno comunitario o de la propia casa
+(mascotas, tareas domésticas, equipos).
+6.5.5.Mesa de trabajo
+El escritorio o mesa de trabajo debe ser de tamaño adecuado para la colocación del equipo de cómputo,
+otros equipos de trabajo y materiales; además debe adaptarse a las dimensiones corporales de la
+persona teletrabajadora, así como a las tareas que va a realizar. Es necesario contar con suficiente
+espacio debajo del escritorio o mesa de trabajo para movilizar las piernas.
+
+-- 8 of 18 --
+
+POLITICA Y
+PROCEDIMIENTO
+N°:
+RH-13
+Página
+9 de 18
+TÍTULO
+Política de Teletrabajo
+FECHAS
+EMISION
+Febrero 2016
+FECHA MÁXIMA DE
+PROXIMA REVISION
+Diciembre 2025
+6.5.6.Silla
+La silla a utilizar por la persona teletrabajadora, debe cumplir al menos con los siguientes
+requerimientos: dimensiones adecuadas de acuerdo a las características físicas de la persona
+teletrabajadora, asiento, respaldo y descansabrazos ajustables en altura, base giratoria de cinco puntos
+de apoyo con rodines, y ofrecer un apoyo adecuado a la espalda, principalmente en la zona lumbar y
+torácica. La empresa podría facilitar la silla a la persona teletrabajadora y ésta se compromete a darle
+el uso y cuidado necesarios.
+6.5.7.Monitor
+El monitor debe estar ubicado frente a la persona teletrabajadora y el borde superior debe situarse al
+nivel de los ojos; de forma que se eviten los movimientos de rotación, flexión y extensión del cuello. En
+caso de que la pantalla de la computadora o portátil esté más baja que la altura de los ojos, se
+recomienda usar una base o libros que ajuste la altura de la computadora. Cuando la persona
+teletrabajadora usa lentes con bifocales o progresivos, la pantalla o la portátil puede estar más bajo que
+el nivel de los ojos, pero es importante verificar que el cuello se mantenga en una posición neutral para
+evitar lesiones. La distancia recomendada entre la pantalla y el ojo debe ser de 50 a 60 cm
+aproximadamente.
+6.5.8.Teclado y mouse
+El teclado y el mouse deben estar al mismo nivel, velando que el ángulo del brazo sea de 90°. El tamaño
+del mouse debe permitir apoyar la mano de forma adecuada.
+6.5.9.Postura
+Cuando la persona teletrabajadora escriba en la computadora, debe asegurarse de adoptar una postura
+adecuada:
+• La cabeza y el cuello debe estar erguido, en línea con el torso.
+• La cabeza, el cuello y el tronco no deben estar inclinados ni girados Los hombros y los miembros
+superiores deben estar relajados, no elevados ni estirados hacia el frente.
+• Los brazos y codos deben estar cercanos al cuerpo.
+• El ángulo que forma la articulación del codo debe estar entre 70 y 135 grados.
+• Las muñecas deben estar en línea con los antebrazos (posición neutral).
+• El ángulo de flexión y extensión de muñecas debe ser menor a 30 grados.
+• Los muslos deben estar paralelos y las piernas perpendiculares al piso.
+• El ángulo del tronco en relación con el muslo debe ser igual o mayor a 90 grados.
+• Los pies deben estar apoyados en el piso o en un reposapiés.
+
+-- 9 of 18 --
+
+POLITICA Y
+PROCEDIMIENTO
+N°:
+RH-13
+Página
+10 de 18
+TÍTULO
+Política de Teletrabajo
+FECHAS
+EMISION
+Febrero 2016
+FECHA MÁXIMA DE
+PROXIMA REVISION
+Diciembre 2025
+6.5.10. Postura estática
+Estar correctamente sentado, pero sin cambiar de posición (postura estática), incluso cuando se adopta
+una postura adecuada, es perjudicial, porque el cuerpo humano está hecho para moverse y el trabajo
+estático puede afectar determinadas partes del cuerpo.
+Para evitar los efectos negativos de las posturas estáticas, es conveniente que la persona
+teletrabajadora siga las siguientes recomendaciones: revise su postura cada cierto tiempo, con el fin de
+verificar si está adoptando una postura correcta; mientras trabaja puede mover los pies y piernas,
+realizar alternancia de tareas (por ejemplo, al hablar por teléfono para asuntos laborales puede cambiar
+de posición, ponerse de pie o caminar) y realizar pausas laborales saludables (pausas activas) durante
+la jornada laboral.
+6.5.11. Pausas laborales saludables
+Para el mantenimiento de la salud y prevenir lesiones osteomusculares, se recomienda implementar un
+programa de pausas laborales saludables (conocidas como pausas activas), es decir, actividad física
+realizada en un breve espacio de tiempo antes o durante la jornada laboral, a través de ejercicios
+compensatorios. Las pausas laborales saludables contribuyen a prevenir la fatiga física y mental,
+promover una postura adecuada y favorecen la recuperación muscular.
+6.6. Riesgos de trabajo
+Durante el teletrabajo la persona estará amparada por la póliza de riesgos de trabajo de la
+empresa. En caso de incidente o accidente, deberá reportarlo a Recursos Humanos en un
+plazo no mayor a 24 horas.
+Constituyen riesgos del trabajo los accidentes y las enfermedades que ocurran a las personas,
+con ocasión o por consecuencia del trabajo que desempeñan en forma subordinada y
+remunerada, así como la agravación o reagravación que resulte como consecuencia directa,
+inmediata e indudable de esos accidentes y enfermedades.
+No constituyen riesgos del trabajo los ocurridos bajo hechos dolosos o bajo la influencia de
+drogas no medicadas, bajo la influencia de licor, y cuando se realicen actividades ajenas a las
+responsabilidades de trabajo.
+
+-- 10 of 18 --
+
+POLITICA Y
+PROCEDIMIENTO
+N°:
+RH-13
+Página
+11 de 18
+TÍTULO
+Política de Teletrabajo
+FECHAS
+EMISION
+Febrero 2016
+FECHA MÁXIMA DE
+PROXIMA REVISION
+Diciembre 2025
+6.7. Solicitud de teletrabajo
+Las personas que cumplan con los criterios de elegibilidad y que deseen trabajar bajo la
+modalidad de teletrabajo deberán completar la “Validación de Tecnología de Información”
+(Anexo 1), la “Solicitud de Teletrabajo” (Anexo 2) y presentarla a su Jefatura Inmediata.
+La Jefatura Inmediata analizará la solicitud de la persona y dará una respuesta en el plazo de
+cinco (5) días hábiles.
+6.8. Deberes y derechos de la persona teletrabajadora
+• Identificar cuáles son los posibles riesgos que se pueden presentar en su lugar de
+trabajo.
+• Realizar el auto reporte de Condiciones de Trabajo (Anexo 3) antes del inicio de las
+funciones en modalidad de teletrabajo y al menos una vez al mes, de acuerdo con los
+mecanismos, establecidos por la empresa.
+• Cumplir con las obligaciones legales en materia de prevención de riesgos laborales.
+• Reportar accidentes o enfermedades de trabajo a Recursos Humanos y a su jefatura
+inmediata, de acuerdo con la legislación vigente y los protocolos establecidos por la
+empresa.
+• Cumplir con los criterios de medición, evaluación y control determinados en el contrato,
+así como sujetarse a las políticas y los códigos de la empresa, respecto a temas de
+relaciones laborales, comportamiento, confidencialidad, manejo de la información y
+demás disposiciones aplicables.
+• Con independencia de la propiedad de la herramienta informática, la persona
+teletrabajadora deberá guardar confidencialidad respecto a la información propiedad de
+la persona empleadora, o bien, a los datos que tenga acceso como consecuencia de la
+relación laboral.
+• Informar inmediatamente su situación y coordinar con la persona empleadora la forma
+como se reestablecerán sus funciones, cuando se presente cualquier situación donde
+la persona teletrabajadora no pueda realizar sus labores o estas se vean interrumpidas.
+• Informar inmediatamente a la persona empleadora, la situación acontecida y coordinar
+las acciones a seguir para garantizar la continuidad de sus labores, cuando las
+herramientas, los materiales y demás implementos afines, que la persona empleadora
+haya entregado a la persona teletrabajadora para la realización de sus labores, sufran
+algún daño, extravío, robo, destrucción o cualquier otro imprevisto que impida su
+utilización. La persona teletrabajadora no será responsable por los imprevistos que
+ocurran en el ejercicio de sus funciones, salvo que se determine que estos hayan
+acaecido de forma intencional, por alguna negligencia, descuido o impericia de su parte
+debidamente demostrada. Cuando las fallas en el equipo y/o herramientas impidan el
+normal desarrollo de las funciones de la persona teletrabajadora y se afecte el
+
+-- 11 of 18 --
+
+POLITICA Y
+PROCEDIMIENTO
+N°:
+RH-13
+Página
+12 de 18
+TÍTULO
+Política de Teletrabajo
+FECHAS
+EMISION
+Febrero 2016
+FECHA MÁXIMA DE
+PROXIMA REVISION
+Diciembre 2025
+adecuado cumplimiento de sus labores, se podrá suspender temporalmente el
+teletrabajo. En situaciones excepcionales y por requerimiento expreso de la persona
+empleadora, la persona teletrabajadora podrá acudir al centro de trabajo a continuar
+con sus labores.
+• Desconectarse digitalmente una vez cumplidas sus responsabilidades.
+6.9. Deberes de la empresa
+• Solicitar a la persona teletrabajadora que realice el auto reporte de Condiciones de
+Trabajo antes del inicio de las funciones en modalidad de teletrabajo y al menos una
+vez al mes (Anexo 3)
+• Promover que la persona teletrabajadora cuente con las condiciones mínimas de salud
+ocupacional, mediante el análisis del auto reporte de Condiciones de Trabajo. Esto no
+excluye que, en caso de considerarlo necesario, la persona empleadora visite el sitio
+indicado por la persona teletrabajadora como su centro de trabajo para orientarlo en la
+adaptación del mismo.
+• Reportar accidentes o enfermedades de trabajo al ente asegurador, de acuerdo con la
+legislación vigente, en caso de que se produzcan bajo la modalidad de teletrabajo y
+cumpla con todos los requisitos de la definición de un accidente de trabajo, según el
+Código de Trabajo.
+• Prevenir el aislamiento social y el debilitamiento de las relaciones interpersonales en el
+trabajo mediante videollamadas 1:1 y videollamadas grupales, entre otras iniciativas.
+• Proveer y garantizar el mantenimiento de los equipos, los programas, el valor de la
+energía determinado según la forma de mediación posible y acordada entre las partes.
+Ante un eventual acuerdo para que la empresa provea el costo de la energía eléctrica,
+se pagará el diferencial entre el incremento mensual de kilovatios generado por el
+equipo de cómputo teniendo en cuenta la siguiente fórmula: consumo teórico de Kwh *
+(5 días semanales de trabajo * 4,3333 semanas laborales al mes) y el ahorro generado
+por la persona en combustible y/o pasajes teniendo en cuenta la siguiente fórmula:
+ahorro diario de combustible/pasajes * (5 días semanales de trabajo * 4,3333 semanas
+laborales al mes).
+• Informar sobre el cumplimiento de las normas y directrices relacionadas con la salud
+ocupacional y prevención de los riesgos de trabajo.
+• Coordinar la forma de restablecer las funciones de la persona teletrabajadora, ante
+situaciones en las que no pueda realizar sus labores o estas se vean interrumpidas.
+• Reconocer el salario a la persona teletrabajadora por no poder teletrabajar en aquellos
+casos donde:
+o La persona teletrabajadora no reciba las herramientas o los programas
+necesarios para realizar las labores o no se le delegue trabajo o insumos.
+
+-- 12 of 18 --
+
+POLITICA Y
+PROCEDIMIENTO
+N°:
+RH-13
+Página
+13 de 18
+TÍTULO
+Política de Teletrabajo
+FECHAS
+EMISION
+Febrero 2016
+FECHA MÁXIMA DE
+PROXIMA REVISION
+Diciembre 2025
+o El equipo se dañe y la persona teletrabajadora lo haya reportado en un plazo no
+mayor a veinticuatro horas.
+o Los sistemas operativos o las tecnologías de la empresa no le permitan a la
+persona teletrabajadora realizar sus funciones y esta situación sea debidamente
+reportada en un plazo no mayor a veinticuatro horas.
+7. CONSULTAS Y/O DENUNCIAS POR INCUMPLIMIENTO
+Cualquier persona de la empresa que desee presentar una denuncia por incumplimiento, lo
+podrá hacer a su respectiva Jefatura Inmediata, quien deberá reportar la denuncia a Recursos
+Humanos. Si la Jefatura Inmediata es la involucrada, debe presentar el caso a la Gerencia de
+Recursos Humanos.
+Si la denuncia involucra a la Jefatura de Recursos Humanos, esta deberá presentar el caso a
+la Gerencia General. En caso de ser la Gerencia General la parte imputada, esta deberá
+suministrarse a la Jefatura de Recursos Humanos y a la Presidencia de la Junta Directiva.
+La denuncia deberá ser acompañada con la prueba respectiva o con las razones o argumentos
+necesarios que la sustenten. Las denuncias se presentarán ante la Jefatura de Recursos
+Humanos, dependencia que las recopilará y realizará la investigación administrativa preliminar,
+para lo cual deberá de adjuntar declaraciones por escrito de la persona denunciante, el acta
+respectiva y las posibles pruebas.
+Las denuncias por incumplimiento de la presente política se podrán remitir y serán recibidas de
+forma confidencial al correo etica@garnier.cr
+Las consultas o dudas que pudiesen derivarse de la presente política se podrán remitir al correo
+recursoshumanos@garnier.cr
+
+-- 13 of 18 --
+
+POLITICA Y
+PROCEDIMIENTO
+N°:
+RH-13
+Página
+14 de 18
+TÍTULO
+Política de Teletrabajo
+FECHAS
+EMISION
+Febrero 2016
+FECHA MÁXIMA DE
+PROXIMA REVISION
+Diciembre 2025
+8. DESVIACIONES Y/O SANCIONES POR INCUMPLIMIENTO
+El incumplimiento de lo dispuesto en la presente política constituye una falta que se regulará
+según su gravedad considerando lo dispuesto por la legislación laboral costarricense.
+Para la determinación de la sanción, se tomará en cuenta la gravedad de la falta y el perjuicio
+ocasionado por el incumplimiento de la persona.
+9. MONITOREO Y CONTROL
+Se mantendrá el monitoreo mediante reportes que incluyan:
+• % total de personal en teletrabajo
+• % de teletrabajo por género
+10. CONTROL DE CAMBIOS
+Nombre: Política de Teletrabajo
+REVISION
+NUMERO
+TIPO DE CAMBIO REALIZADO POR FECHA
+1 Emisión del documento Recursos Humanos Febrero 2016
+2
+Inclusión de nomenclatura. Revisión
+general del proceso conforme a Ley
+No.9738 Para regular el teletrabajo.
+Aumento de días de teletrabajo.
+Inclusión de apartado de salud
+ocupacional según la guía emitida
+por el CSO. Derecho a la
+desconexión digital.
+Recursos Humanos Abril 2021
+
+-- 14 of 18 --
+
+POLITICA Y
+PROCEDIMIENTO
+N°:
+RH-13
+Página
+15 de 18
+TÍTULO
+Política de Teletrabajo
+FECHAS
+EMISION
+Febrero 2016
+FECHA MÁXIMA DE
+PROXIMA REVISION
+Diciembre 2025
+Actualización de sanciones.
+Inclusión de denuncias y/o consultas
+por incumplimiento. Inclusión de
+mecanismos de monitoreo y control
+EMITIDO POR REVISADO POR Aprobado por
+Recursos
+Humanos Jefatura de Recursos Humanos Presidencia Ejecutiva
+
+-- 15 of 18 --
+
+POLITICA Y
+PROCEDIMIENTO
+N°:
+RH-13
+Página
+16 de 18
+TÍTULO
+Política de Teletrabajo
+FECHAS
+EMISION
+Febrero 2016
+FECHA MÁXIMA DE
+PROXIMA REVISION
+Diciembre 2025
+11. ANEXOS
+Anexo 1: Validación de Tecnología de Información
+Nombre del solicitante: _______________________________________________
+Número de serie: _______________________________________________
+Número de activo: _______________________________________________
+Item Cumple No cumple
+Credenciales de escritorio remoto
+Credenciales de acceso a software específico
+para el cumplimiento de responsabilidades
+Correo electrónico
+Teams
+Respaldo actualizado del equipo
+Notas:
+1. La validación debe realizarse previo a la solicitud de teletrabajo ante el Departamento de TI.
+2. Los ítems se validan una sola vez y en cada ocasión que se cambie la computadora asignada a
+la persona.
+Soportista Técnico: ______________________________________________
+Fecha: ______________________________________________
+
+-- 16 of 18 --
+
+POLITICA Y
+PROCEDIMIENTO
+N°:
+RH-13
+Página
+17 de 18
+TÍTULO
+Política de Teletrabajo
+FECHAS
+EMISION
+Febrero 2016
+FECHA MÁXIMA DE
+PROXIMA REVISION
+Diciembre 2025
+Anexo 2: Solicitud de teletrabajo
+Información personal
+Nombre de la persona solicitante: ______________________________________________
+Puesto: ______________________________________________
+Departamento: ______________________________________________
+Fecha de ingreso: ______________________________________________
+Información de contacto
+Teléfono celular: ______________________________________________
+Teléfono casa de habitación: ______________________________________________
+Información del teletrabajo
+Día de teletrabajo: ( ) Lunes, ( ) Martes, ( ) Miércoles, ( ) Jueves, ( ) Viernes
+Horario de trabajo: ( ) 7 am a 4 pm, ( ) 8 am a 5 pm, ( ) 9 am a 6 pm
+Fecha de solicitud: ______________________________________________
+Firma de la persona solicitante: ______________________________________________
+Aprobaciones
+_____________________________
+Firma de Jefatura inmediata: ( ) Aprobado, ( ) Rechazado
+_____________________________
+Firma de Dirección / Gerencia de área: ( ) Aprobado, ( ) Rechazado
+
+-- 17 of 18 --
+
+POLITICA Y
+PROCEDIMIENTO
+N°:
+RH-13
+Página
+18 de 18
+TÍTULO
+Política de Teletrabajo
+FECHAS
+EMISION
+Febrero 2016
+FECHA MÁXIMA DE
+PROXIMA REVISION
+Diciembre 2025
+Anexo 3: Auto reporte de Condiciones de Trabajo
+
+-- 18 of 18 --
+
